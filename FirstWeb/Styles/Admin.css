@@ -1,0 +1,107 @@
+﻿body 
+{
+  
+}
+table
+{
+      background-color:white;
+      border-color:Gray;        
+}
+#lblTitle {
+    font-weight:bold;
+}
+.MenuClass
+  {
+      background-color:#f0f0f0;
+   margin:2% 15% 5% 15%;    
+ /*  height:30px; */
+    -webkit-border-radius: 8px;   
+    border: 1px solid #f0f0f0;
+
+  }
+  .MasterMenu
+  {      
+  /*  margin:0 30% 0 30%;  
+   height:30px;   */
+   margin-top:8px;
+ /* margin-left:10%;*/
+  margin-right:10%;
+ /* width:50px;*/
+  }
+  .Logout
+  {  
+    margin-top:-20px;
+    margin-bottom: 10% ;
+    margin-right:5px;
+    margin-left:70%;
+    width:10%;
+    height:30px;
+    font-family:Georgia;
+    text-decoration:none;
+  }
+    #Employee
+  {
+        
+        margin:2% 15% 5% 15%; 
+  }
+  .DynamicMenu
+     {
+              -webkit-border-radius: 8px;   
+      border: 1px solid #f0f0f0; 
+      width:100px;
+     }
+     .HealToZeal
+     {
+        font-family:Georgia;
+        font-size:large;
+        margin-top :-25px;
+        margin-bottom: 10% ;
+        margin-left:10%;
+        margin-right:70%;
+     }
+     
+.AdminLogin
+{
+   background-color:#f0f0f0;     
+   margin:15% 20% 10% 30%; 
+   width:25%;  
+  font-family:Georgia;
+     -webkit-border-radius: 8px;   
+    border: 1px solid #f0f0f0;
+}
+.btnLoginClass
+{
+   background-color:White;
+   width:130px;    
+   height:30px;
+   font-family:Georgia;  
+   /*-webkit-border-radius: 5px 5px 5px 5px; */
+    outline: 0 none;
+    padding: 0 0px 2px;
+    border: 1px solid White; 
+   }
+     .footerClass
+     {
+         background-color:#f0f0f0;           
+         margin-left:15%;
+         margin-right:15%; 
+         height:30px;
+        -webkit-border-radius: 8px;   
+        border: 1px solid #f0f0f0; 
+        text-align:center;
+        font-family:Georgia;
+        font-size:medium;
+    	bottom:0;
+	    left:0;
+	    right:0;
+        position:absolute;
+     }
+     
+       .divClass
+  {
+     background-color:#f0f0f0;
+       margin:-20px 5% 5% 5%; 
+       font-family:Georgia;
+          -webkit-border-radius: 8px;   
+    border: 1px solid #f0f0f0;
+  }

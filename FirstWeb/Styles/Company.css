@@ -1,0 +1,158 @@
+﻿body {
+}
+.MenuClass
+  {
+      /*background-color:#f0f0f0;
+   margin:2% 15% 0 15%;    
+   height:30px;
+    -webkit-border-radius: 8px;   
+    border: 1px solid #f0f0f0;
+   
+       */        
+   margin:2% 15% 0 15%;    
+   height:60px;
+    border: 1px solid #f0f0f0;
+
+  }
+  .MasterMenu
+  {      
+  /*  margin:0 30% 0 30%;  
+   height:30px;   */
+   margin-top:-18px;
+  margin-left:60%;
+  margin-right:10%;
+  width:50px;
+  }
+  .Logout
+  {
+  
+   /* margin-top:-20px;
+    margin-bottom: 10% ;
+    margin-right:5px;
+    margin-left:70%;
+    width:10%;
+    height:30px;
+    font-family:Georgia;
+    text-decoration:none; */
+       margin-bottom: 5% ;
+  }
+    #Employee
+  {
+       /* margin:2% 15% 5% 15%; */
+         margin:2% 15% 2% 0; 
+        
+  }
+  .DynamicMenu
+     {
+          /*    -webkit-border-radius: 8px;   */
+      border: 1px solid #f0f0f0; 
+      width:100px;
+     }
+     .HealToZeal
+     {
+        font-family:Georgia;
+        font-size:large;
+        margin-top :-25px;
+        margin-bottom: 10% ;
+        margin-left:10%;
+        margin-right:70%;
+     }
+     
+.CompanyLogin
+{
+   background-color:#f0f0f0;     
+   margin:15% 20% 10% 30%; 
+   width:35%;  
+  font-family:Georgia;
+     -webkit-border-radius: 8px;   
+    border: 1px solid #f0f0f0;
+}
+.btnLoginClass
+{
+   background-color:White;
+   width:130px;    
+   height:30px;
+   font-family:Georgia;  
+   /*-webkit-border-radius: 5px 5px 5px 5px; */
+    outline: 0 none;
+    padding: 0 0px 2px;
+    border: 1px solid White; 
+
+   }
+     .footerClass
+     {
+         background-color:#f0f0f0;           
+         margin-left:15%;
+         margin-right:15%; 
+         height:30px;
+        -webkit-border-radius: 8px;   
+        border: 1px solid #f0f0f0; 
+        text-align:center;
+        font-family:Georgia;
+        font-size:medium;
+    	bottom:0;
+	    left:0;
+	    right:0;
+        position:absolute;
+     }
+     
+       .divClass
+  {
+     background-color:#f0f0f0;
+     /*  margin:2% 5% 5% 5%; */
+        margin:2% 4% 5% 5%;
+       font-family:Georgia;
+         -webkit-border-radius: 8px;   
+   /* border: 1px solid #f0f0f0; */
+  }
+    
+   .txtLoginClass
+   {
+      -webkit-border-radius: 8px;
+     width:200px;    
+     height :25px;
+      border: 1px solid White; 
+   }
+      /* CSSTerm.com Simple CSS menu */
+   .menu_simple ul {
+    margin: 0; 
+    padding: 0;
+    width:185px;
+    list-style-type: none;
+}
+
+.menu_simple ul li a {
+    text-decoration: none;
+    color: white; 
+    padding: 10.5px 11px;
+    background-color: #5FD367;
+    display:block;
+    font-family:Georgia;
+    
+     border-bottom:1px solid green;
+}
+ 
+.menu_simple ul li a:visited {
+    color: white;
+}
+ 
+.menu_simple ul li a:hover, .menu_simple ul li .current {
+    color: Black;
+    background-color: #CDFECD;
+}
+
+.tableclass
+{
+ 	bottom:0;
+	left:0;
+	right:0;   
+	width:100%;
+ }
+ 
+ .divAdds
+ {
+      width:40%;
+     margin-right:5%;
+     margin-left:20%;
+    margin-top:0;
+     }

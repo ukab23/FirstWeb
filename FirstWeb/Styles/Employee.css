@@ -1,0 +1,262 @@
+﻿body
+{
+    
+    }
+    #form1 
+    {
+        height: 100%;
+    }
+.EmployeeLogin
+{
+   background-color:#f0f0f0;     
+   margin:15% 20% 10% 30%; 
+   width:30%;  
+  font-family:Georgia;
+ /*    -webkit-border-radius: 8px;   */
+    border: 1px solid #f0f0f0;
+}
+.btnLoginClass
+{
+   background-color:White;
+   width:130px;    
+   height:30px;
+   font-family:Georgia;  
+   /*-webkit-border-radius: 5px 5px 5px 5px; */
+    outline: 0 none;
+    padding: 0 0px 2px;
+    border: 1px solid White;
+    margin-top: 21px;
+}
+   .txtLoginClass
+   {
+     -webkit-border-radius: 3px; 
+     width:90%;    
+     height :25px;
+      border: 1px solid gray; 
+   }
+    .txtmultiClass
+   {
+     -webkit-border-radius: 3px; 
+     width:100%;
+     height:100px;    
+      border: 1px solid gray; 
+   }
+ 
+  .divClass
+  {
+     background-color:White  ;
+    /*   margin:2% 5% 5% 5%; */
+        margin:2% 4% 5% 5%;
+       font-family:Georgia;
+       -webkit-border-radius: 8px; 
+    /*border: 1px solid #f0f0f0;    */
+  }
+  .divProfileClass
+  {
+     background-color:#f0f0f0  ;
+       margin:2% 5% 5% 5%; 
+       font-family:Georgia;
+       -webkit-border-radius: 8px; 
+    /*border: 1px solid #f0f0f0;    */
+  }
+   .divshortProfClass
+  {
+     background-color:White  ;   
+       font-family:Georgia;      
+    /*border: 1px solid #f0f0f0;    */
+  }
+  .MenuClass
+  {
+    /*  background-color:#f0f0f0;*/
+    background-color:#B4BEFC;
+   margin:2% 15% 0 15%;    
+   height:60px;
+  /*  -webkit-border-radius: 8px;   */
+    border: 1px solid #f0f0f0;
+    
+  }
+  .MasterMenu
+  {      
+      
+ /*  margin-top:-10px; 
+  margin-right:10%;*/
+margin-left:60%;
+  width:50px;
+  }
+  .Logout
+  {
+  
+ /*  margin-top:-20px;*/
+    margin-bottom: 5% ;
+   /*  margin-right:5px;
+   margin-left:80%;
+    width:10%;*/
+ 
+    width:30px;
+    height:30px;
+    font-family:Georgia;
+    text-decoration:none;
+  }
+
+  .btnClass
+  {
+   background-color:White;
+   height:30px;
+   width:150px;    
+   font-family:Georgia;
+  }
+  #Employee
+  {   
+       /* margin:-10% 15% 2% 20%; */
+         margin:2% 15% 2% 0; 
+  }
+ .test
+  {
+     min-width: 54px;
+       height: 24px; 
+       white-space: nowrap;   
+       cursor: pointer;  
+       outline: 0 none;
+       padding: 0 0px 2px;
+       text-align: center;      
+       border: 1px solid White; 
+      }
+      
+     .DynamicMenu
+     {
+       -webkit-border-radius: 8px;   
+      border: 1px solid #f0f0f0; 
+      width:90px;
+     }
+     .HealToZeal
+     {
+        font-family:Georgia;
+        font-size:x-large;
+       /* margin-top :-5px;
+        margin-bottom: 5% ;
+        margin-left:10%;
+        margin-right:70%;*/
+        text-align:center;
+     }
+     .footerClass
+     {
+            /*  background-color:#f0f0f0;           */
+             /*  background-color:#B4BEFC;*/
+        /*       margin-left:15%;
+              margin-right:15%; */
+   height:30px;
+   /* -webkit-border-radius: 8px;   */
+    border: 1px solid #f0f0f0; 
+    text-align:center;
+    font-family:Georgia;
+    font-size:medium;
+    	bottom:0;
+	left:0;
+	right:0;    
+    color: #333300;
+     }
+     
+     /*Menu Master Page*/
+ 
+.tableclass
+{
+ 	bottom:0;
+	left:0;
+	right:0;   
+	width:100%;
+ }
+ 
+#footer {
+	height:30px;
+	position:absolute;	
+	bottom:0;
+	left:0;
+	right:0;
+	margin-left:15%;
+	background-color:#f0f0f0;
+	margin-right:15%;
+	/*-webkit-border-radius: 8px;    */
+    border: 1px solid #f0f0f0; 
+    text-align:center;
+    font-family:Georgia;
+    font-size:medium;
+}
+
+.AlternateRowClass
+{
+ /*          -webkit-border-radius: 8px;   */
+    border: 1px solid #f0f0f0;
+    }
+    
+    
+    /* CSSTerm.com Simple CSS menu */
+
+.menu_simple ul {
+    margin: 0; 
+    padding: 0;
+    width:185px;
+    list-style-type: none;
+}
+
+.menu_simple ul li a {
+    text-decoration: none;
+    color: white; 
+    padding: 10.5px 11px;
+    background-color: #5FD367;
+    display:block;
+    font-family:Georgia;
+    
+    border-bottom:1px solid green;
+}
+ 
+.menu_simple ul li a:visited {
+    color: white;
+}
+ 
+.menu_simple ul li a:hover, .menu_simple ul li .current {
+    color: Black;
+    background-color: #CDFECD;
+}
+
+.datalistClass
+{
+   
+       font-family:Georgia;
+          -webkit-border-radius: 8px;   
+/*   border: 1px solid gray;*/
+ border: 1px solid transparent;
+    padding-bottom:2px;
+    
+    }
+    
+    .page-wrap {
+  min-height: 100%;
+  /* equal to footer height */
+  margin-bottom: -30px; 
+}
+.page-wrap:after {
+  content: "";
+  display: block;
+}
+.site-footer, .page-wrap:after {
+  height:30px;
+}
+.site-footer {
+  background: #9DD0FB;
+   height:30px;
+  /*  -webkit-border-radius: 8px;   */
+    border: 1px solid #f0f0f0; 
+    text-align:center;
+    font-family:Georgia;
+    font-size:medium; 
+   bottom:0;   
+}
+ .divAdds
+ {
+     
+     margin-right:5%;
+    margin-top:0;
+     }
+    /* table  tr:nth-child(odd) {background-color: green; }
+
+ table  tr:nth-child(even){background-color: red; } */
